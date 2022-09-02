@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-mergeDebugResources-28:/layout/activity_menu.xml",
+        "source": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-main-31:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-mergeDebugResources-28:/layout/activity_success.xml",
+        "source": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-main-31:/layout/activity_success.xml"
+    },
+    {
+        "merged": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-mergeDebugResources-28:/layout/item_spinner.xml",
+        "source": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-main-31:/layout/item_spinner.xml"
+    },
+    {
+        "merged": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-mergeDebugResources-28:/layout/activity_about.xml",
+        "source": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-main-31:/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-mergeDebugResources-28:/layout/activity_options.xml",
+        "source": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-main-31:/layout/activity_options.xml"
+    },
+    {
+        "merged": "com.example.openboxapp-mergeDebugResources-28:/layout/activity_box_selection.xml",
+        "source": "com.example.openboxapp-main-31:/layout/activity_box_selection.xml"
+    },
+    {
+        "merged": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-mergeDebugResources-28:/layout/activity_box_selection.xml",
+        "source": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-main-31:/layout/activity_box_selection.xml"
+    },
+    {
+        "merged": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-mergeDebugResources-28:/layout/box_item.xml",
+        "source": "/home/artushock/.gradle/daemon/7.3.3/com.example.openboxapp-main-31:/layout/box_item.xml"
+    }
+]
